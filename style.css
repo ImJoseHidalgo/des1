@@ -438,6 +438,9 @@ body {
 }
 @media only screen and (max-width: 740px) {
   .landing-container {
+    height: 100%;
+  }
+  .landing-container {
     grid-template-columns: 1fr;
     width: 85%;
   }
