@@ -28,7 +28,7 @@ body {
   left: -70px;
   top: -120px;
   border-radius: 0 0 400px 400px;
-  /* transition: 0.5s; */
+  transition: 0.5s;
   background: linear-gradient(hsl(293, 100%, 63%), hsl(264, 100%, 61%));
 }
 /* Phone */
