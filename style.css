@@ -114,6 +114,15 @@ body {
   align-items: center;
   cursor: pointer;
   user-select: none;
+  animation: vista 2s 5s reverse;
+}
+@keyframes vista {
+  from {
+    background: transparent;
+  }
+  to {
+    background: hsl(276, 100%, 30%);
+  }
 }
 .nav-mas .menu-active {
   display: none;
